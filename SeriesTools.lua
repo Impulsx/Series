@@ -19,12 +19,12 @@ do
         Lua = {
             Path = SCRIPT_PATH,
             Name = "SeriesTools.lua",
-            Url = "https://raw.githubusercontent.com/LegoNioh/Series/master/SeriesTools.lua"
+            Url = "https://raw.githubusercontent.com/Impulsx/Series/master/SeriesTools.lua"
         },
         Version = {
             Path = SCRIPT_PATH,
             Name = "SeriesTools.version",
-            Url = "https://raw.githubusercontent.com/LegoNioh/Series/master/SeriesTools.version"    -- check if Raw Adress correct pls.. after you have create the version file on Github
+            Url = "https://raw.githubusercontent.com/Impulsx/Series/master/SeriesTools.version"    -- check if Raw Adress correct pls.. after you have create the version file on Github
         }
     }
     
